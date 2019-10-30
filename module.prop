@@ -1,0 +1,8 @@
+id=TestingP3allstuffP2
+name=Test - Pixel 3 Stuff for P2XL
+version=v2
+versionCode=200
+author=Gabriel Howard
+description=Pixel 3 (blueline) build.prop, exclusive apps, overlays and animations, Flip To Shhh and sysconfig files  optimized for P2XL // For testing purposes only
+minMagisk=17000
+
